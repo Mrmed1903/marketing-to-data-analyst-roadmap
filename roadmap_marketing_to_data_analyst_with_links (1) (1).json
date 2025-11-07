@@ -1,0 +1,152 @@
+{
+    "title": "De Marketing Digital à Data Analyst",
+    "description": "Roadmap complète pour devenir Data Analyst à partir d’un parcours en marketing digital et e-commerce.",
+    "stages": [
+        {
+            "title": "Phase 1 : Fondations de la Data",
+            "steps": [
+                "Apprendre les bases de la statistique (moyenne, variance, corrélation, régression simple)",
+                "Maîtriser Excel / Google Sheets (formules avancées, tableaux croisés dynamiques, nettoyage de données)"
+            ],
+            "resources": [
+                {
+                    "name": "Khan Academy - Introduction aux statistiques",
+                    "url": "https://fr.khanacademy.org/math/statistics-probability"
+                },
+                {
+                    "name": "Cours Excel Data Analysis (YouTube)",
+                    "url": "https://www.youtube.com/results?search_query=excel+data+analysis+cours+francais"
+                }
+            ]
+        },
+        {
+            "title": "Phase 2 : Visualisation des données",
+            "steps": [
+                "Apprendre Tableau : tableaux de bord interactifs, connexions à Excel/CSV",
+                "Utiliser Google Data Studio / Looker Studio pour des rapports marketing automatisés"
+            ],
+            "resources": [
+                {
+                    "name": "DataCamp - Introduction to Tableau",
+                    "url": "https://www.datacamp.com/courses/introduction-to-tableau"
+                },
+                {
+                    "name": "Google Data Studio / Looker Studio",
+                    "url": "https://datastudio.google.com/"
+                }
+            ]
+        },
+        {
+            "title": "Phase 3 : Gestion et extraction des données",
+            "steps": [
+                "Apprendre SQL : SELECT, WHERE, GROUP BY, JOIN, fonctions analytiques",
+                "Réaliser un projet d’extraction et d’analyse de ventes clients"
+            ],
+            "resources": [
+                {
+                    "name": "DataCamp - Introduction to SQL",
+                    "url": "https://www.datacamp.com/courses/introduction-to-sql"
+                },
+                {
+                    "name": "SQLZoo",
+                    "url": "https://sqlzoo.net/"
+                }
+            ]
+        },
+        {
+            "title": "Phase 4 : Analyse avec Python",
+            "steps": [
+                "Découvrir Python (variables, boucles, fonctions)",
+                "Utiliser pandas, matplotlib et seaborn pour l’analyse et la visualisation de données"
+            ],
+            "resources": [
+                {
+                    "name": "Kaggle - Python Course",
+                    "url": "https://www.kaggle.com/learn/python"
+                },
+                {
+                    "name": "DataCamp - Python for Data Analysis",
+                    "url": "https://www.datacamp.com/courses/introduction-to-python"
+                }
+            ]
+        },
+        {
+            "title": "Phase 5 : Visualisation & Reporting avancés",
+            "steps": [
+                "Apprendre Power BI : import de données, création de rapports interactifs, DAX basics",
+                "Projet : tableau de bord Power BI des ventes par région et canal marketing"
+            ],
+            "resources": [
+                {
+                    "name": "Microsoft Learn - Power BI",
+                    "url": "https://learn.microsoft.com/fr-fr/training/powerplatform/power-bi"
+                },
+                {
+                    "name": "Tutoriels Power BI (YouTube)",
+                    "url": "https://www.youtube.com/results?search_query=power+bi+tutoriel+francais"
+                }
+            ]
+        },
+        {
+            "title": "Phase 6 : Mise en pratique & Portfolio",
+            "steps": [
+                "Créer des mini-projets (analyse ventes e-commerce, campagnes Ads, comportement client)",
+                "Publier les projets sur GitHub ou LinkedIn",
+                "Mettre à jour CV et profil LinkedIn avec section 'Data Projects'"
+            ],
+            "resources": [
+                {
+                    "name": "Kaggle Datasets",
+                    "url": "https://www.kaggle.com/datasets"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://www.linkedin.com/"
+                }
+            ]
+        },
+        {
+            "title": "Phase 7 : Spécialisation Marketing Analytics",
+            "steps": [
+                "Maîtriser Google Analytics 4 et Meta Ads Manager",
+                "Apprendre les notions d’attribution, ROI, conversion rate, funnel marketing",
+                "Projet : analyse complète d’une campagne publicitaire digitale"
+            ],
+            "resources": [
+                {
+                    "name": "Google Analytics Academy",
+                    "url": "https://analytics.google.com/analytics/academy/"
+                },
+                {
+                    "name": "Meta Blueprint",
+                    "url": "https://www.facebook.com/business/learn"
+                }
+            ]
+        },
+        {
+            "title": "Phase 8 : Certification & Carrière",
+            "steps": [
+                "Obtenir les certifications : Google Data Analytics, Microsoft Power BI, Tableau Analyst",
+                "Envisager une formation complémentaire (Simplon, OpenClassrooms, Coursera)"
+            ],
+            "resources": [
+                {
+                    "name": "Google Data Analytics Certificate",
+                    "url": "https://www.coursera.org/professional-certificates/google-data-analytics"
+                },
+                {
+                    "name": "Microsoft Power BI Data Analyst",
+                    "url": "https://learn.microsoft.com/fr-fr/certifications/power-bi-data-analyst-associate/"
+                },
+                {
+                    "name": "Tableau Certified Data Analyst",
+                    "url": "https://www.tableau.com/learn/certification/data-analyst"
+                }
+            ]
+        }
+    ]
+}
